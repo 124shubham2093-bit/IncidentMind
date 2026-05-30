@@ -1,0 +1,5 @@
+timestamp,error,service,severity
+2025-05-28 10:35,Stripe timeout,payment-api,high
+2025-05-28 10:40,Payment failed,payment-api,high
+2025-05-28 11:20,Auth token expired,user-service,medium
+2025-05-28 12:10,Checkout latency spike,checkout-service,medium

@@ -1,0 +1,46 @@
+┌─────────────────────┐
+│   Deployments.csv   │
+└──────────┬──────────┘
+           │
+
+┌─────────────────────┐
+│     Errors.csv      │
+└──────────┬──────────┘
+           │
+
+┌─────────────────────┐
+│    Tickets.csv      │
+└──────────┬──────────┘
+           │
+           ▼
+
+┌───────────────────────────────┐
+│        Coral Query Layer      │
+│                               │
+│ • Cross-source joins          │
+│ • Unified SQL access          │
+│ • Correlation engine          │
+└──────────────┬────────────────┘
+               │
+               ▼
+
+┌───────────────────────────────┐
+│      IncidentMind AI Engine   │
+│                               │
+│ • Root Cause Analysis         │
+│ • Severity Detection          │
+│ • Risk Scoring                │
+│ • Confidence Scoring          │
+│ • Remediation Planning        │
+└──────────────┬────────────────┘
+               │
+               ▼
+
+┌───────────────────────────────┐
+│      IncidentMind Dashboard   │
+│                               │
+│ • Live Incident Feed          │
+│ • Executive Insights          │
+│ • AI Investigation Chat       │
+│ • Incident Reports            │
+└───────────────────────────────┘

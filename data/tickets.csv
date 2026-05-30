@@ -1,0 +1,4 @@
+timestamp,ticket,user_region
+2025-05-28 10:45,Payments failing for EU users,EU
+2025-05-28 10:50,Cannot complete checkout,EU
+2025-05-28 11:30,Login issue after update,US
