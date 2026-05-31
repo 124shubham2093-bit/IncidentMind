@@ -14,21 +14,38 @@ st.set_page_config(
 
 st.markdown("""
 <style>
+
+.stApp {
+    background-color: #0e1117;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: white !important;
+}
+
+p, label {
+    color: white !important;
+}
+
 div[data-testid="stMetric"] {
     background-color: #1b1f2b;
     border: 1px solid #313543;
     padding: 15px;
     border-radius: 12px;
 }
+
 .stAlert {
     border-radius: 12px;
 }
+
 .block-container {
     padding-top: 2rem;
 }
+
 [data-testid="stSidebar"] {
     background-color: #151821;
 }
+
 .live-feed {
     background-color: #1b1f2b;
     padding: 15px;
@@ -36,6 +53,7 @@ div[data-testid="stMetric"] {
     border: 1px solid #313543;
     margin-bottom: 8px;
 }
+
 </style>
 """, unsafe_allow_html=True)
 
